@@ -1,0 +1,72 @@
+.container{
+    margin: 100px;
+}
+.banner{
+    background-color: #fceac8;
+    border-radius: 20px;
+}
+.box1{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: khaki;
+}
+.box2{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: chartreuse;
+}
+.box3{
+    border-radius: 10px;
+    background-color: pink;
+    padding: 10px;
+   
+}
+.pr{
+    color: blue;
+}
+.card{
+    box-shadow: 3px 3px 10px burlywood;
+    padding: 10px ;
+}
+.pale{
+    width: 100%;
+    height: 100%;
+}
+.cat1{
+    height: auto%;
+    width: 100%;
+    padding-top: 5px;
+    box-shadow: 10px 12px 15px rgb(68, 63, 63);
+   
+}
+.cat2{
+    padding: 5px;
+    box-shadow: 10px 12px 15px rgb(68, 63, 63);
+    
+    
+}
+.cat3{
+    box-shadow: 10px 12px 15px rgb(68, 63, 63);
+}
+.rw{
+    padding: 10px;
+    margin: 10px;
+}
+.cate{
+    text-align: center;
+    color: blue;
+}
+.submit1{
+    text-align: center;
+    background-color: #fceac8;
+   border-radius: 10px;
+    padding: 30px;
+}
+.sumit{
+    font-size: 60%;
+    color: chocolate;
+}
+.ft{
+    text-align: center;
+    background-color: whitesmoke;
+}
